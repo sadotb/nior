@@ -1,0 +1,6 @@
+{
+  "name": "NIOR Platform",
+  "description": "National Intelligence & Operational Readiness Platform - Premium AI-Powered Government Enterprise Intelligence Dashboard and Landing Page.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
